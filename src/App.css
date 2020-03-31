@@ -1,0 +1,14 @@
+.header{
+  font-size: 25px;
+  text-align: center;
+  background-color: lightblue;
+  padding: 5px;
+}
+
+.MuiPaper-root {
+border: 1px solid;
+}
+
+#root{
+background-color: lightgray;
+}
