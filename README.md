@@ -8,11 +8,11 @@ AS A a person trying to keep track of their progress I WANT to be able to log al
 
 ## How to Use
 
-Open URL <https://anu-dam-reactemployeedirectory.herokuapp.com>
-See a list of employees
-Sort through each field
+* Open URL <https://anu-dam-reactemployeedirectory.herokuapp.com>
+* See a list of employees
+* Sort through each field
 
 ## Built With
 
-ReactJS
-[Material-UI]
+* ReactJS
+* Material-UI
