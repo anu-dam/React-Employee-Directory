@@ -8,6 +8,8 @@ AS A a person trying to keep track of their progress I WANT to be able to log al
 
 ## How to Use
 
+[I'm an inline-style link](https://www.google.com)
+
 * Open URL <https://anu-dam-reactemployeedirectory.herokuapp.com>
 * See a list of employees
 * Sort through each field
